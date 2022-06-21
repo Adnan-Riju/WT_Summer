@@ -1,0 +1,13 @@
+<?php
+session_start();
+echo "your first name". $_SESSION["fn"] ." ". $_SESSION["ln"];
+?>
+<html>
+    <body>
+        <h1>Page 2</h1>
+        <form action=""><input type="button" onclick="location.href='logout.php'" name="sm" value="Logout"></form>
+        <?php // header("Location: ../view/logout.php"); ?>
+
+        
+    </body>
+</html>
