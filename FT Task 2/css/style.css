@@ -1,0 +1,48 @@
+div.heading{
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+    border: 20px;
+}
+h3{
+    color: blue;
+}
+div.bar{
+    background-color: purple;
+    padding: 10;
+    color: white;
+}
+h2{
+    background-color: rgb(186, 221, 235);
+    padding: 8;
+    border-left: 5px solid rgb(95, 197, 163);
+
+}
+.table{
+    background-color: yellow;
+
+
+}
+th, td {
+    border-bottom: 1px solid rgb(179, 194, 212);
+}
+body{
+    background-color: rgb(179, 194, 212);
+}
+.button{
+    background-color: rgb(36, 123, 238);
+    padding-right: 20px;
+    padding-left: 20px;
+    box-shadow: 1px 2px;
+    border-radius: 5px;
+}
+.line-1 {
+    height: 1px;
+    background: white;
+    border: 10;
+  }
+.bartable{
+    color: white;
+
+  }
+  
